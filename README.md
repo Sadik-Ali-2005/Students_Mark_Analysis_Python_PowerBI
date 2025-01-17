@@ -1,5 +1,4 @@
 # Project Image:
-![students_mark_analysis_with_names](https://github.com/user-attachments/assets/a5a5631b-fd95-4bfd-94bf-e88b4e71dd7d)
 
 # Python Files
 ## Jupyter Notebook: 
