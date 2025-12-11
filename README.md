@@ -1,5 +1,5 @@
 # Project Image
-![students_mark_analysis_final](https://github.com/user-attachments/assets/509bb6da-bda6-411d-b3b2-04ca7486a83a)
+![students_mark_analysis_final](https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/students_mark_analysis_final.jpeg)
 
 # Python Files
 ## Jupyter Notebook: 
