@@ -1,26 +1,6 @@
 # Project Image
 ![students_mark_analysis_final](https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/students_mark_analysis_final.jpeg)
 
-# Python Files
-## Jupyter Notebook: 
-  https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/marks_presentation.ipynb
-## Dataset:
-  https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/std_marks_ds_II.csv
-
-#
-
-# PowerBI Files
-## PowerBI Dashboard:
- https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/students_mark_presentation.pbix
-## Datasets:
- https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/mod_avg_max_marks.csv
- 
- https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/mod_detained_students.csv
- 
- https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/mod_std_marks_ds_II.csv
- 
- https://github.com/Sadik-Ali-2005/Students_Mark_Analysis_Python_PowerBI/blob/main/mod_top_5_std.csv
-
 #
 
 # Description
